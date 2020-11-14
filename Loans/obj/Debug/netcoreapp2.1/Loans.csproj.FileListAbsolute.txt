@@ -1,0 +1,9 @@
+E:\C#\Mocking\MoqMockingProject\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+E:\C#\Mocking\MoqMockingProject\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+E:\C#\Mocking\MoqMockingProject\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+E:\C#\Mocking\MoqMockingProject\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
+E:\C#\Mocking\MoqMockingProject\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+E:\C#\Mocking\MoqMockingProject\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+E:\C#\Mocking\MoqMockingProject\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+E:\C#\Mocking\MoqMockingProject\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+E:\C#\Mocking\MoqMockingProject\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
